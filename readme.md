@@ -36,4 +36,4 @@ $ python3 qcc_info_collecter.py 华为
 python3 qcc_info_collecter.py 华为
 
 ## 原理
-登录后,填写cookie,进行信息收集，主要是为了获得子公司注册域名信息
+登录企查查网站后,填写cookie,进行信息收集，主要是为了获得子公司注册域名信息
